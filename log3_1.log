@@ -1,0 +1,45 @@
+2022-11-16 17:59:04.997560	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2AB0>" = flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.000552	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2B20>" = flat_generator([['a'], ['b', 'c']],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.003543	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2C70>" = flat_generator(['a'],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.007533	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2C70>" = flat_generator(['b', 'c'],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.010525	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2B20>" = flat_generator(['d', 'e', [['f'], 'h'], False],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.013516	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2C70>" = flat_generator([['f'], 'h'],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.016509	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2CE0>" = flat_generator(['f'],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.019501	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2B20>" = flat_generator([1, 2, None, [[[[['!']]]]], []],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.023490	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2C70>" = flat_generator([[[[['!']]]]],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.026482	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2CE0>" = flat_generator([[[['!']]]],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.030471	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2D50>" = flat_generator([[['!']]],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.033463	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2DC0>" = flat_generator([['!']],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.037453	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2E30>" = flat_generator(['!'],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.040444	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2C70>" = flat_generator([],){}.
+	Время выполнения: 0.0 секунд.
+2022-11-16 17:59:05.044434	flat_generator:
+	Получен результат: "<generator object flat_generator at 0x000002B2827A2AB0>" = flat_generator([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],){}.
+	Время выполнения: 0.0 секунд.
